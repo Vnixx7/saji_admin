@@ -14,7 +14,7 @@
     <div id="test">
     </div>
     <button class="btn btn-sm btn-success">Save</button>
-    <button class="btn btn-sm btn-danger">Cacnel</button>
+    <button class="btn btn-sm btn-danger">Cancel</button>
 </body>
 
 </html>
