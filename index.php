@@ -13,7 +13,8 @@
 <body>
     <div id="test">
     </div>
-    <button class="btn btn-sm btn-danger">OK</button>
+    <button class="btn btn-sm btn-success">Save</button>
+    <button class="btn btn-sm btn-danger">Cacnel</button>
 </body>
 
 </html>
